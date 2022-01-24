@@ -1,4 +1,4 @@
-# codes 
+# Right rotate an array by interger value=d positions
 <!-- # Right rotate an array by interger value=d positions
 # C++ code -->
                
